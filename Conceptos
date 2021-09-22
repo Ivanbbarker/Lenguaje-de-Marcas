@@ -1,12 +1,21 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Mi primera Página Web</title>
+<!DOCTYPE html>  
+<html lang="es">                                <!--Sirve de ayuda al navegador con el idioma para su lectura y visualización-->
+<html>                                          <!--Se trata del comienzo de un archivo HTML-->
+    <head>                                      <!--La cabecera de la apgina web, es decir, donde colocaremos el titulo de la página-->
+       <title>Mi primera Página Web</title>     <!--El título-->
+       <meta charset="UTF-8" content>           <!--Es como expresarle al navegador y/o editor de texto, el idioma en el que esta codificado este docuento-->
+                                                
     </head>
-     <body>
-         <h1>Esto es un h1</h1>
+     <body>                                     <!-- Es el cuerpo de nuestra página, donde se incluirán los párrafos-->
+         <h1>Esto es un h1</h1>                 <!-- El subtitulo, existen tambien con tamaño menor proporcional; h2,h3...-->
          <p>Aqui tenemos un párrafo, para 
-             nuestra primera web</p>
-            
+             nuestra primera web</p>            <!--Es el propio párrafo-->
+        <p>
+            Este es un refran chino:&#x4e2d, &#x4e4d 
+        <!-- Este del final se tratan de codigos de idioma, se utiliza con &#x-->
+        </p>
+        <section>                               <!--Esta etiqueta simplemente ayuda a los buscadores con la division de contenido de la página web-->
+            Esta es la seccion de economía
+        </section
     </body>
 </html>
