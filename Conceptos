@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mi primera Página Web</title>
+    </head>
+     <body>
+         <h1>Esto es un h1</h1>
+         <p>Aqui tenemos un párrafo, para 
+             nuestra primera web</p>
+            
+    </body>
+</html>
