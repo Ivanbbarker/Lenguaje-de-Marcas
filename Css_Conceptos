@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang='es'>
+   <head>
+     <title>Pruebas de css/html</title>
+     <!--Crear estilos externos .css -->
+    <link type="text/css" href="estilo.css" rel="styleheet">
+  <meta charset='utf-8'>
+   </head>
+  <!-- Crear estilos con css para html en la cabecera -->
+       <style type="text/css">
+            p{
+        background-color: red;
+            }
+    </style>
+   <body>
+      <!-- Cuerpo de la pagina -->
+    <p Style="background-color:red">
+      Esto es un texto con fondo rojo
+    </p>
+   </body>
+</html>
